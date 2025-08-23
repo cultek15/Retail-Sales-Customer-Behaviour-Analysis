@@ -1,0 +1,301 @@
+ProductID,ProductName,Category,UnitPrice,Supplier
+1,Close Up Toothpaste 140g,Beauty,27399.52,Radiant Cosmetics Ltd.
+2,Panasonic Blender,Household,265333.73,SafeHome Products Co.
+3,Indomie Noodles (Super Pack),Groceries,46171.62,FreshHarvest Intl.
+4,Rolex Watch,Clothing,432330.06,Continental Textiles Ltd.
+5,Louis Vuitton Bag,Clothing,454627.38,Royal Apparel Ltd.
+6,Adidas Sneakers,Clothing,530422.31,Elite Fashion Group
+7,Bournvita 500g,Groceries,37252.77,PrimeMart Distributors
+8,Binatone Fan,Household,196180.87,HomeEase Supplies Ltd.
+9,Binatone Fan,Household,61376.04,Superior Appliances Inc.
+10,Close Up Toothpaste 140g,Beauty,26956.32,Radiant Cosmetics Ltd.
+11,Adidas Sneakers,Clothing,50482.2,Royal Apparel Ltd.
+12,Pampers Baby Diaper Size 3,Beauty,47164.23,TrueBeauty Industries
+13,Huggies Diaper Size 4,Beauty,11884.1,GlowCare Enterprises
+14,Sony PlayStation 5,Electronics,460431.24,Innovatek Solutions
+15,iPad Pro 12.9,Electronics,768515.22,FutureTech Systems
+16,Dell Inspiron Laptop,Electronics,1166101.51,Global Gadgets Inc.
+17,Dangote Sugar 1kg,Groceries,42471.65,WestAfrica Provisions Co.
+18,Indomie Noodles (Super Pack),Groceries,2181.06,Unity Agro-Allied Ltd.
+19,Rolex Watch,Clothing,765047.21,Royal Apparel Ltd.
+20,Panasonic Blender,Electronics,77776.96,NextGen Electronics Ltd.
+21,Always Ultra Pad,Beauty,40286.89,GlowCare Enterprises
+22,Panasonic Blender,Household,212491.83,SafeHome Products Co.
+23,Binatone Fan,Household,110431.19,Comfort Living Enterprises
+24,HP Pavilion Laptop,Electronics,154199.25,NextGen Electronics Ltd.
+25,Sony PlayStation 5,Electronics,734747.33,FutureTech Systems
+26,Binatone Fan,Household,120301.47,Superior Appliances Inc.
+27,Apple iPhone 13,Electronics,299678.51,TechWorld Ltd.
+28,Rolex Watch,Clothing,145909.93,Elite Fashion Group
+29,Omo Detergent 1kg,Groceries,24345.14,FreshHarvest Intl.
+30,Binatone Fan,Household,222819.22,Comfort Living Enterprises
+31,Always Ultra Pad,Beauty,15742.43,TrueBeauty Industries
+32,Sony PlayStation 5,Electronics,53659.05,FutureTech Systems
+33,Bournvita 500g,Groceries,10492.71,AgroFoods Nigeria Ltd.
+34,Panasonic Blender,Household,30220.2,SafeHome Products Co.
+35,LG 55-inch TV,Household,258646.36,SafeHome Products Co.
+36,Close Up Toothpaste 140g,Beauty,31489.77,PureSkin Products Co.
+37,Close Up Toothpaste 140g,Beauty,20087.75,TrueBeauty Industries
+38,Pampers Baby Diaper Size 3,Beauty,42981.78,PureSkin Products Co.
+39,Panasonic Blender,Household,97087.79,EssentialWare Ltd.
+40,MacBook Pro 2021,Electronics,919257.67,NextGen Electronics Ltd.
+41,LG 55-inch TV,Electronics,61393.1,Innovatek Solutions
+42,Dettol Antiseptic 500ml,Groceries,12570.13,PrimeMart Distributors
+43,Infinix Hot 12,Electronics,327828.34,FutureTech Systems
+44,iPad Pro 12.9,Electronics,411469.95,Global Gadgets Inc.
+45,LG 55-inch TV,Household,239507.86,SafeHome Products Co.
+46,Coca-Cola 50cl,Groceries,11992.31,WestAfrica Provisions Co.
+47,Milo Tin 450g,Groceries,41895.33,AgroFoods Nigeria Ltd.
+48,Pampers Baby Diaper Size 3,Beauty,44373.13,PureSkin Products Co.
+49,Adidas Sneakers,Clothing,111454.24,Elite Fashion Group
+50,Dangote Sugar 1kg,Groceries,18386.94,AgroFoods Nigeria Ltd.
+51,Pampers Baby Diaper Size 3,Beauty,11771.04,Radiant Cosmetics Ltd.
+52,Louis Vuitton Bag,Clothing,41599.76,Jones & Smith LLC
+53,Louis Vuitton Bag,Clothing,598848.71,Royal Apparel Ltd.
+54,Pepsi 50cl,Groceries,45511.3,PrimeMart Distributors
+55,Lipton Yellow Label Tea 100 bags,Groceries,5012.58,Unity Agro-Allied Ltd.
+56,HP Pavilion Laptop,Electronics,846181.08,NextGen Electronics Ltd.
+57,LG 55-inch TV,Household,248804.6,EssentialWare Ltd.
+58,LG 55-inch TV,Household,261505.4,SafeHome Products Co.
+59,Close Up Toothpaste 140g,Beauty,22538.83,TrueBeauty Industries
+60,Binatone Fan,Household,137212.83,SafeHome Products Co.
+61,Infinix Hot 12,Electronics,990582.87,Innovatek Solutions
+62,Binatone Fan,Household,57423.05,Comfort Living Enterprises
+63,LG 55-inch TV,Household,164147.14,EssentialWare Ltd.
+64,Huggies Diaper Size 4,Beauty,5113.5,NaturaCare Intl.
+65,Rolex Watch,Clothing,449477.19,UrbanWear Co.
+66,Always Ultra Pad,Beauty,5125.25,TrueBeauty Industries
+67,Bournvita 500g,Groceries,46965.61,WestAfrica Provisions Co.
+68,Panasonic Blender,Household,171493.35,EssentialWare Ltd.
+69,Panasonic Blender,Household,40989.66,Superior Appliances Inc.
+70,Sony PlayStation 5,Electronics,120264.29,Innovatek Solutions
+71,Nike Airforce 1,Clothing,50967.64,Elite Fashion Group
+72,Always Ultra Pad,Beauty,35690.83,GlowCare Enterprises
+73,MacBook Pro 2021,Electronics,238093.59,NextGen Electronics Ltd.
+74,Panasonic Blender,Household,239818.53,SafeHome Products Co.
+75,iPad Pro 12.9,Electronics,153925.71,FutureTech Systems
+76,iPad Pro 12.9,Electronics,359395.53,NextGen Electronics Ltd.
+77,Panasonic Blender,Household,273809.16,Superior Appliances Inc.
+78,Panasonic Blender,Electronics,406899.41,Innovatek Solutions
+79,Close Up Toothpaste 140g,Beauty,11623.88,GlowCare Enterprises
+80,Binatone Fan,Household,38826.39,HomeEase Supplies Ltd.
+81,Dangote Sugar 1kg,Groceries,34734.61,PrimeMart Distributors
+82,Tecno Spark 10,Electronics,842077.08,FutureTech Systems
+83,MacBook Pro 2021,Electronics,984335.4,NextGen Electronics Ltd.
+84,Golden Penny Pasta 500g,Groceries,33533.56,Unity Agro-Allied Ltd.
+85,Itel P38,Electronics,1161681.58,FutureTech Systems
+86,Huggies Diaper Size 4,Beauty,25513.23,PureSkin Products Co.
+87,Binatone Fan,Household,228233.19,SafeHome Products Co.
+88,Dangote Sugar 1kg,Groceries,2244.85,Unity Agro-Allied Ltd.
+89,Omo Detergent 1kg,Groceries,8298.85,AgroFoods Nigeria Ltd.
+90,Panasonic Blender,Household,170391.21,Superior Appliances Inc.
+91,Binatone Fan,Household,270962.75,SafeHome Products Co.
+92,Lipton Yellow Label Tea 100 bags,Groceries,19389.97,WestAfrica Provisions Co.
+93,Infinix Hot 12,Electronics,448820.51,Innovatek Solutions
+94,Nike Airforce 1,Clothing,663698.85,Jones & Smith LLC
+95,LG 55-inch TV,Electronics,809433.97,Innovatek Solutions
+96,Always Ultra Pad,Beauty,44411.29,GlowCare Enterprises
+97,Adidas Sneakers,Clothing,328191.03,Royal Apparel Ltd.
+98,Pampers Baby Diaper Size 3,Beauty,6737.98,PureSkin Products Co.
+99,LG 55-inch TV,Household,94670.67,Comfort Living Enterprises
+100,Louis Vuitton Bag,Clothing,618565.41,Continental Textiles Ltd.
+101,Always Ultra Pad,Beauty,12075.09,GlowCare Enterprises
+102,Omo Detergent 1kg,Groceries,26377.97,PrimeMart Distributors
+103,Close Up Toothpaste 140g,Beauty,26590.11,PureSkin Products Co.
+104,iPad Pro 12.9,Electronics,96945.22,TechWorld Ltd.
+105,Itel P38,Electronics,517174.19,FutureTech Systems
+106,Rolex Watch,Clothing,194981.07,Jones & Smith LLC
+107,Apple iPhone 13,Electronics,1191447.96,Innovatek Solutions
+108,Adidas Sneakers,Clothing,8905.91,Continental Textiles Ltd.
+109,Panasonic Blender,Household,62141.5,Superior Appliances Inc.
+110,Panasonic Blender,Household,218940.54,Superior Appliances Inc.
+111,iPad Pro 12.9,Electronics,1045415.87,Innovatek Solutions
+112,Casio Wristwatch,Clothing,576541.1,UrbanWear Co.
+113,Louis Vuitton Bag,Clothing,720779.1,UrbanWear Co.
+114,Nike Airforce 1,Clothing,425212.83,Jones & Smith LLC
+115,Always Ultra Pad,Beauty,32542.08,TrueBeauty Industries
+116,Always Ultra Pad,Beauty,12516.19,Radiant Cosmetics Ltd.
+117,Louis Vuitton Bag,Clothing,363409.83,Elite Fashion Group
+118,Pepsi 50cl,Groceries,18630.15,WestAfrica Provisions Co.
+119,Close Up Toothpaste 140g,Beauty,13180.53,Radiant Cosmetics Ltd.
+120,MacBook Pro 2021,Electronics,1106751.67,NextGen Electronics Ltd.
+121,Always Ultra Pad,Beauty,49969.99,TrueBeauty Industries
+122,Lipton Yellow Label Tea 100 bags,Groceries,9368.63,Unity Agro-Allied Ltd.
+123,LG 55-inch TV,Electronics,834244,TechWorld Ltd.
+124,Xbox Series X,Electronics,754442.47,Global Gadgets Inc.
+125,LG 55-inch TV,Electronics,1038476.46,TechWorld Ltd.
+126,Panasonic Blender,Household,250620.76,HomeEase Supplies Ltd.
+127,Close Up Toothpaste 140g,Beauty,31930.49,NaturaCare Intl.
+128,Nike Airforce 1,Clothing,729608.98,UrbanWear Co.
+129,Rolex Watch,Clothing,740285.12,UrbanWear Co.
+130,Tecno Spark 10,Electronics,627062.07,Innovatek Solutions
+131,Pampers Baby Diaper Size 3,Beauty,18926.65,NaturaCare Intl.
+132,HP Pavilion Laptop,Electronics,37596.84,Global Gadgets Inc.
+133,Infinix Hot 12,Electronics,333185.3,TechWorld Ltd.
+134,Casio Wristwatch,Clothing,596999.52,UrbanWear Co.
+135,LG 55-inch TV,Household,263520.77,SafeHome Products Co.
+136,Louis Vuitton Bag,Clothing,306704.3,Royal Apparel Ltd.
+137,LG 55-inch TV,Household,99496.83,Comfort Living Enterprises
+138,Adidas Sneakers,Clothing,282496.75,Continental Textiles Ltd.
+139,Pampers Baby Diaper Size 3,Beauty,48842.5,GlowCare Enterprises
+140,Panasonic Blender,Electronics,486825.13,Innovatek Solutions
+141,iPad Pro 12.9,Electronics,524443.91,TechWorld Ltd.
+142,Always Ultra Pad,Beauty,20630.66,Radiant Cosmetics Ltd.
+143,Casio Wristwatch,Clothing,163982.13,Royal Apparel Ltd.
+144,Panasonic Blender,Household,47935.33,SafeHome Products Co.
+145,Adidas Sneakers,Clothing,464450.01,Continental Textiles Ltd.
+146,Panasonic Blender,Household,126080.2,Superior Appliances Inc.
+147,Peak Milk Tin 400g,Groceries,14050.89,WestAfrica Provisions Co.
+148,Omo Detergent 1kg,Groceries,24766.18,PrimeMart Distributors
+149,Binatone Fan,Household,250362.23,HomeEase Supplies Ltd.
+150,iPad Pro 12.9,Electronics,787404.49,FutureTech Systems
+151,Dell Inspiron Laptop,Electronics,84806.92,Innovatek Solutions
+152,Close Up Toothpaste 140g,Beauty,14587.14,TrueBeauty Industries
+153,Panasonic Blender,Electronics,145575.95,TechWorld Ltd.
+154,Always Ultra Pad,Beauty,24249.78,NaturaCare Intl.
+155,Panasonic Blender,Electronics,275301.81,NextGen Electronics Ltd.
+156,Binatone Fan,Household,66050.86,SafeHome Products Co.
+157,Binatone Fan,Household,261238.25,Comfort Living Enterprises
+158,Rolex Watch,Clothing,62103.73,Royal Apparel Ltd.
+159,Casio Wristwatch,Clothing,448169.11,Jones & Smith LLC
+160,Louis Vuitton Bag,Clothing,512262.14,Continental Textiles Ltd.
+161,Panasonic Blender,Household,85937.51,EssentialWare Ltd.
+162,Coca-Cola 50cl,Groceries,15730.43,PrimeMart Distributors
+163,LG 55-inch TV,Household,91228.33,SafeHome Products Co.
+164,Milo Tin 450g,Groceries,32925.7,Unity Agro-Allied Ltd.
+165,Rolex Watch,Clothing,622724.65,Jones & Smith LLC
+166,Binatone Fan,Household,137430.58,SafeHome Products Co.
+167,Golden Penny Pasta 500g,Groceries,5379.17,WestAfrica Provisions Co.
+168,LG 55-inch TV,Household,218666.36,SafeHome Products Co.
+169,Casio Wristwatch,Clothing,745196.86,UrbanWear Co.
+170,Peak Milk Tin 400g,Groceries,33225.3,PrimeMart Distributors
+171,Pampers Baby Diaper Size 3,Beauty,20500.09,TrueBeauty Industries
+172,Tecno Spark 10,Electronics,210985.92,NextGen Electronics Ltd.
+173,LG 55-inch TV,Household,242056.66,EssentialWare Ltd.
+174,Close Up Toothpaste 140g,Beauty,32373.9,GlowCare Enterprises
+175,Dettol Antiseptic 500ml,Groceries,40292.74,AgroFoods Nigeria Ltd.
+176,Rolex Watch,Clothing,242072.2,UrbanWear Co.
+177,Nike Airforce 1,Clothing,153409.16,Royal Apparel Ltd.
+178,Sony PlayStation 5,Electronics,61890.67,NextGen Electronics Ltd.
+179,Close Up Toothpaste 140g,Beauty,7101.26,Radiant Cosmetics Ltd.
+180,Dell Inspiron Laptop,Electronics,1128589.75,Innovatek Solutions
+181,Binatone Fan,Household,144915.39,HomeEase Supplies Ltd.
+182,Nike Airforce 1,Clothing,667353.28,Elite Fashion Group
+183,Huggies Diaper Size 4,Beauty,38716.5,TrueBeauty Industries
+184,Binatone Fan,Household,73704.54,Superior Appliances Inc.
+185,Binatone Fan,Household,152727.11,Comfort Living Enterprises
+186,Dangote Sugar 1kg,Groceries,17431.91,FreshHarvest Intl.
+187,LG 55-inch TV,Household,56287.67,EssentialWare Ltd.
+188,Huggies Diaper Size 4,Beauty,4534.82,Radiant Cosmetics Ltd.
+189,LG 55-inch TV,Household,75845.62,HomeEase Supplies Ltd.
+190,Huggies Diaper Size 4,Beauty,22871.29,GlowCare Enterprises
+191,Always Ultra Pad,Beauty,29552.18,PureSkin Products Co.
+192,Rolex Watch,Clothing,251918.5,Jones & Smith LLC
+193,Adidas Sneakers,Clothing,778602.45,Continental Textiles Ltd.
+194,Panasonic Blender,Household,268567.17,EssentialWare Ltd.
+195,Close Up Toothpaste 140g,Beauty,11970.31,GlowCare Enterprises
+196,Huggies Diaper Size 4,Beauty,3236.29,PureSkin Products Co.
+197,Lipton Yellow Label Tea 100 bags,Groceries,13744.41,FreshHarvest Intl.
+198,Rolex Watch,Clothing,272943.64,Continental Textiles Ltd.
+199,Adidas Sneakers,Clothing,726057.3,UrbanWear Co.
+200,Panasonic Blender,Household,273155.66,Superior Appliances Inc.
+201,Close Up Toothpaste 140g,Beauty,33967.97,PureSkin Products Co.
+202,HP Pavilion Laptop,Electronics,135186.11,FutureTech Systems
+203,Huggies Diaper Size 4,Beauty,26591.39,TrueBeauty Industries
+204,Infinix Hot 12,Electronics,1093239.79,NextGen Electronics Ltd.
+205,Always Ultra Pad,Beauty,15517.47,GlowCare Enterprises
+206,Omo Detergent 1kg,Groceries,38131.22,FreshHarvest Intl.
+207,Binatone Fan,Household,48396.57,Comfort Living Enterprises
+208,Huggies Diaper Size 4,Beauty,7388.49,GlowCare Enterprises
+209,Casio Wristwatch,Clothing,357144.13,Jones & Smith LLC
+210,LG 55-inch TV,Electronics,224564.1,Global Gadgets Inc.
+211,Rolex Watch,Clothing,160437.59,UrbanWear Co.
+212,LG 55-inch TV,Household,228290.66,EssentialWare Ltd.
+213,LG 55-inch TV,Household,168982.98,EssentialWare Ltd.
+214,Casio Wristwatch,Clothing,342603.91,Continental Textiles Ltd.
+215,Casio Wristwatch,Clothing,47484.04,Elite Fashion Group
+216,Nike Airforce 1,Clothing,132537.47,Elite Fashion Group
+217,Always Ultra Pad,Beauty,11138.47,TrueBeauty Industries
+218,Apple iPhone 13,Electronics,910329.5,TechWorld Ltd.
+219,Pampers Baby Diaper Size 3,Beauty,49943.51,GlowCare Enterprises
+220,Indomie Noodles (Super Pack),Groceries,33618.61,FreshHarvest Intl.
+221,Adidas Sneakers,Clothing,413669.62,Continental Textiles Ltd.
+222,Dangote Sugar 1kg,Groceries,11357.5,WestAfrica Provisions Co.
+223,Binatone Fan,Household,285472.47,Comfort Living Enterprises
+224,LG 55-inch TV,Electronics,474915.77,Global Gadgets Inc.
+225,Coca-Cola 50cl,Groceries,27867.74,WestAfrica Provisions Co.
+226,Binatone Fan,Household,282233.73,Superior Appliances Inc.
+227,Nike Airforce 1,Clothing,315835.46,Elite Fashion Group
+228,Panasonic Blender,Electronics,305840.51,TechWorld Ltd.
+229,Binatone Fan,Household,50487.64,HomeEase Supplies Ltd.
+230,Pepsi 50cl,Groceries,39252.51,AgroFoods Nigeria Ltd.
+231,LG 55-inch TV,Household,264219.24,HomeEase Supplies Ltd.
+232,Always Ultra Pad,Beauty,5834.99,GlowCare Enterprises
+233,Huggies Diaper Size 4,Beauty,26482.19,Radiant Cosmetics Ltd.
+234,Pepsi 50cl,Groceries,37374.69,PrimeMart Distributors
+235,Panasonic Blender,Household,119599.57,Superior Appliances Inc.
+236,Itel P38,Electronics,1175585.13,Global Gadgets Inc.
+237,Rolex Watch,Clothing,685681,Continental Textiles Ltd.
+238,Dell Inspiron Laptop,Electronics,557499.6,TechWorld Ltd.
+239,MacBook Pro 2021,Electronics,85505.33,Innovatek Solutions
+240,Dangote Sugar 1kg,Groceries,35517.15,PrimeMart Distributors
+241,Bournvita 500g,Groceries,27394.06,AgroFoods Nigeria Ltd.
+242,Adidas Sneakers,Clothing,316882.99,UrbanWear Co.
+243,Rolex Watch,Clothing,44645.42,Elite Fashion Group
+244,Casio Wristwatch,Clothing,249383.77,Royal Apparel Ltd.
+245,Always Ultra Pad,Beauty,26199.37,GlowCare Enterprises
+246,Coca-Cola 50cl,Groceries,31122.92,FreshHarvest Intl.
+247,LG 55-inch TV,Household,123257.68,Superior Appliances Inc.
+248,Always Ultra Pad,Beauty,45718.09,Radiant Cosmetics Ltd.
+249,Always Ultra Pad,Beauty,29265.32,NaturaCare Intl.
+250,Itel P38,Electronics,1049748.44,NextGen Electronics Ltd.
+251,LG 55-inch TV,Electronics,1178493.82,Innovatek Solutions
+252,Close Up Toothpaste 140g,Beauty,27697.03,TrueBeauty Industries
+253,Lipton Yellow Label Tea 100 bags,Groceries,20538.47,PrimeMart Distributors
+254,Close Up Toothpaste 140g,Beauty,10406.79,GlowCare Enterprises
+255,Always Ultra Pad,Beauty,25182.42,Radiant Cosmetics Ltd.
+256,Nike Airforce 1,Clothing,698517.18,Jones & Smith LLC
+257,Nike Airforce 1,Clothing,175888.27,Continental Textiles Ltd.
+258,LG 55-inch TV,Household,8076.39,Comfort Living Enterprises
+259,Close Up Toothpaste 140g,Beauty,5706.46,TrueBeauty Industries
+260,Pepsi 50cl,Groceries,42944.22,PrimeMart Distributors
+261,Pepsi 50cl,Groceries,2184.8,PrimeMart Distributors
+262,Rolex Watch,Clothing,796546.78,UrbanWear Co.
+263,iPad Pro 12.9,Electronics,646038.21,TechWorld Ltd.
+264,Nike Airforce 1,Clothing,682291.85,UrbanWear Co.
+265,Samsung Galaxy S21,Electronics,70999.21,TechWorld Ltd.
+266,Bournvita 500g,Groceries,41899.39,WestAfrica Provisions Co.
+267,Louis Vuitton Bag,Clothing,449927.57,Elite Fashion Group
+268,LG 55-inch TV,Household,16081.5,Superior Appliances Inc.
+269,Indomie Noodles (Super Pack),Groceries,23160.75,WestAfrica Provisions Co.
+270,Rolex Watch,Clothing,549399.71,Elite Fashion Group
+271,Casio Wristwatch,Clothing,593513.57,Royal Apparel Ltd.
+272,LG 55-inch TV,Household,282355.86,Superior Appliances Inc.
+273,LG 55-inch TV,Household,235365.95,SafeHome Products Co.
+274,Adidas Sneakers,Clothing,401587.5,UrbanWear Co.
+275,Panasonic Blender,Electronics,146725.1,Innovatek Solutions
+276,Pampers Baby Diaper Size 3,Beauty,3695.8,GlowCare Enterprises
+277,Bournvita 500g,Groceries,9656.58,PrimeMart Distributors
+278,Samsung Galaxy S21,Electronics,358883.17,Innovatek Solutions
+279,Nike Airforce 1,Clothing,99377.04,Jones & Smith LLC
+280,Close Up Toothpaste 140g,Beauty,9226.43,Radiant Cosmetics Ltd.
+281,Omo Detergent 1kg,Groceries,36742.77,WestAfrica Provisions Co.
+282,Close Up Toothpaste 140g,Beauty,41995.41,GlowCare Enterprises
+283,Louis Vuitton Bag,Clothing,777848.79,Jones & Smith LLC
+284,Adidas Sneakers,Clothing,231850.13,Jones & Smith LLC
+285,Panasonic Blender,Household,283598.25,SafeHome Products Co.
+286,Omo Detergent 1kg,Groceries,49620.46,WestAfrica Provisions Co.
+287,Louis Vuitton Bag,Clothing,400336.99,UrbanWear Co.
+288,Dell Inspiron Laptop,Electronics,603196.18,NextGen Electronics Ltd.
+289,LG 55-inch TV,Household,237895.9,EssentialWare Ltd.
+290,Panasonic Blender,Household,197637.01,HomeEase Supplies Ltd.
+291,Dell Inspiron Laptop,Electronics,1050535.62,NextGen Electronics Ltd.
+292,LG 55-inch TV,Household,127484.64,Superior Appliances Inc.
+293,Binatone Fan,Household,137447.06,HomeEase Supplies Ltd.
+294,Binatone Fan,Household,154668.41,SafeHome Products Co.
+295,Rolex Watch,Clothing,164890.54,UrbanWear Co.
+296,Dell Inspiron Laptop,Electronics,1112176.78,NextGen Electronics Ltd.
+297,Close Up Toothpaste 140g,Beauty,14613.66,TrueBeauty Industries
+298,Close Up Toothpaste 140g,Beauty,26427.46,Radiant Cosmetics Ltd.
+299,Pampers Baby Diaper Size 3,Beauty,8649.51,Radiant Cosmetics Ltd.
+300,Pampers Baby Diaper Size 3,Beauty,40788.47,NaturaCare Intl.

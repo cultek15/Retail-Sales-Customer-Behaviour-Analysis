@@ -1,0 +1,301 @@
+ProductID,ProductName,Category,UnitPrice,Supplier
+1000,Perfume Oil,Beauty,1017.91,NaijaCare Cosmetics
+1001,Toilet Roll,Household,1459.42,CleanPro Nigeria
+1002,Cap,Clothing,13710.41,AnkaraWorld
+1003,Smartphone,Electronics,103877.2,TechNaija
+1004,Yam Tubers,Groceries,12152.74,Foodies Ltd
+1005,Perfume Oil,Beauty,1624.22,OlaBeauty
+1006,Air Freshener,Household,4174.16,CleanPro Nigeria
+1007,T-shirt,Clothing,3621.35,UrbanStyle
+1008,Smartphone,Electronics,84388.63,TechNaija
+1009,Bread,Groceries,5399.2,AgroSupplies
+1010,Shea Butter Cream,Beauty,979.54,NaijaCare Cosmetics
+1011,Insecticide,Household,3165.26,BrightHome Ltd
+1012,Ankara Fabric,Clothing,18583.96,UrbanStyle
+1013,Television,Electronics,131542.37,ElectroMart
+1014,Bread,Groceries,26428.6,Foodies Ltd
+1015,Shea Butter Cream,Beauty,4936.58,NaijaCare Cosmetics
+1016,Dishwasher Soap,Household,3102.65,NaijaFresh
+1017,Cap,Clothing,5054.06,UrbanStyle
+1018,Generator,Electronics,165578.22,ElectroMart
+1019,Rice (50kg),Groceries,30787.64,NaijaMart
+1020,Body Lotion,Beauty,3922.38,OlaBeauty
+1021,Detergent,Household,867.38,NaijaFresh
+1022,Ankara Fabric,Clothing,6709.83,UrbanStyle
+1023,Smartphone,Electronics,87453.33,TechNaija
+1024,Yam Tubers,Groceries,22801.56,NaijaMart
+1025,Hair Relaxer,Beauty,5712.62,OlaBeauty
+1026,Insecticide,Household,986.29,BrightHome Ltd
+1027,Jeans Trousers,Clothing,15968.25,NaijaWear Ltd
+1028,Television,Electronics,173935.07,ElectroMart
+1029,Yam Tubers,Groceries,17677.85,AgroSupplies
+1030,Black Soap,Beauty,1784.96,GlowLine Ltd
+1031,Detergent,Household,3614.52,CleanPro Nigeria
+1032,Ankara Fabric,Clothing,13098.48,UrbanStyle
+1033,Laptop,Electronics,171862.8,GadgetHub
+1034,Beans (50kg),Groceries,54457.1,AgroSupplies
+1035,Body Lotion,Beauty,1728.13,GlowLine Ltd
+1036,Toilet Roll,Household,4689.79,BrightHome Ltd
+1037,Ankara Fabric,Clothing,3486.4,NaijaWear Ltd
+1038,Laptop,Electronics,43948.61,ElectroMart
+1039,Yam Tubers,Groceries,22656.09,AgroSupplies
+1040,Black Soap,Beauty,2658.97,OlaBeauty
+1041,Insecticide,Household,4859.41,CleanPro Nigeria
+1042,Jeans Trousers,Clothing,7239.27,NaijaWear Ltd
+1043,Laptop,Electronics,139372.75,ElectroMart
+1044,Bread,Groceries,54605.53,AgroSupplies
+1045,Body Lotion,Beauty,6163.96,NaijaCare Cosmetics
+1046,Insecticide,Household,4673.7,BrightHome Ltd
+1047,Leather Shoes,Clothing,18654.1,NaijaWear Ltd
+1048,Smartphone,Electronics,109211.33,GadgetHub
+1049,Beans (50kg),Groceries,10248.82,Foodies Ltd
+1050,Black Soap,Beauty,6097.36,GlowLine Ltd
+1051,Toilet Roll,Household,2623.92,BrightHome Ltd
+1052,Ankara Fabric,Clothing,11418.21,NaijaWear Ltd
+1053,Laptop,Electronics,187610.16,GadgetHub
+1054,Rice (50kg),Groceries,54895.17,Foodies Ltd
+1055,Body Lotion,Beauty,5943.92,OlaBeauty
+1056,Toilet Roll,Household,4571.16,NaijaFresh
+1057,Jeans Trousers,Clothing,6408.18,AnkaraWorld
+1058,Generator,Electronics,116201.5,GadgetHub
+1059,Beans (50kg),Groceries,19776.15,NaijaMart
+1060,Black Soap,Beauty,5642.98,GlowLine Ltd
+1061,Air Freshener,Household,3689.47,CleanPro Nigeria
+1062,Cap,Clothing,9570.41,UrbanStyle
+1063,Generator,Electronics,119531.52,ElectroMart
+1064,Rice (50kg),Groceries,39663.0,Foodies Ltd
+1065,Perfume Oil,Beauty,3340.99,NaijaCare Cosmetics
+1066,Detergent,Household,1045.84,BrightHome Ltd
+1067,Cap,Clothing,19651.22,NaijaWear Ltd
+1068,Laptop,Electronics,86122.08,GadgetHub
+1069,Beans (50kg),Groceries,35035.97,Foodies Ltd
+1070,Shea Butter Cream,Beauty,3277.35,NaijaCare Cosmetics
+1071,Toilet Roll,Household,840.65,NaijaFresh
+1072,Ankara Fabric,Clothing,13934.94,AnkaraWorld
+1073,Television,Electronics,32729.23,TechNaija
+1074,Beans (50kg),Groceries,35610.12,NaijaMart
+1075,Shea Butter Cream,Beauty,915.13,OlaBeauty
+1076,Detergent,Household,1340.57,NaijaFresh
+1077,Ankara Fabric,Clothing,18225.33,AnkaraWorld
+1078,Laptop,Electronics,237298.95,TechNaija
+1079,Bread,Groceries,37850.62,AgroSupplies
+1080,Body Lotion,Beauty,7993.62,GlowLine Ltd
+1081,Detergent,Household,3064.97,CleanPro Nigeria
+1082,Jeans Trousers,Clothing,5234.34,AnkaraWorld
+1083,Television,Electronics,125923.69,GadgetHub
+1084,Rice (50kg),Groceries,8476.14,NaijaMart
+1085,Hair Relaxer,Beauty,1479.84,GlowLine Ltd
+1086,Toilet Roll,Household,1543.49,CleanPro Nigeria
+1087,Leather Shoes,Clothing,10646.09,AnkaraWorld
+1088,Bluetooth Speaker,Electronics,73773.94,GadgetHub
+1089,Bread,Groceries,11948.92,AgroSupplies
+1090,Perfume Oil,Beauty,6815.25,GlowLine Ltd
+1091,Toilet Roll,Household,4122.2,NaijaFresh
+1092,Jeans Trousers,Clothing,7392.31,UrbanStyle
+1093,Laptop,Electronics,158514.77,GadgetHub
+1094,Bread,Groceries,40963.68,NaijaMart
+1095,Hair Relaxer,Beauty,7656.0,NaijaCare Cosmetics
+1096,Toilet Roll,Household,3708.98,BrightHome Ltd
+1097,Jeans Trousers,Clothing,18326.88,UrbanStyle
+1098,Laptop,Electronics,211180.4,ElectroMart
+1099,Rice (50kg),Groceries,13742.53,NaijaMart
+1100,Hair Relaxer,Beauty,3488.18,GlowLine Ltd
+1101,Dishwasher Soap,Household,3162.81,BrightHome Ltd
+1102,Cap,Clothing,7127.2,UrbanStyle
+1103,Bluetooth Speaker,Electronics,81937.21,GadgetHub
+1104,Yam Tubers,Groceries,37378.46,Foodies Ltd
+1105,Shea Butter Cream,Beauty,4451.68,OlaBeauty
+1106,Dishwasher Soap,Household,3689.15,CleanPro Nigeria
+1107,Leather Shoes,Clothing,8741.8,AnkaraWorld
+1108,Generator,Electronics,95152.56,TechNaija
+1109,Beans (50kg),Groceries,12856.04,Foodies Ltd
+1110,Black Soap,Beauty,1162.56,NaijaCare Cosmetics
+1111,Detergent,Household,4729.14,NaijaFresh
+1112,Jeans Trousers,Clothing,8859.92,UrbanStyle
+1113,Laptop,Electronics,70283.76,GadgetHub
+1114,Yam Tubers,Groceries,8468.58,AgroSupplies
+1115,Perfume Oil,Beauty,6897.59,NaijaCare Cosmetics
+1116,Toilet Roll,Household,1223.31,CleanPro Nigeria
+1117,Ankara Fabric,Clothing,7799.18,NaijaWear Ltd
+1118,Bluetooth Speaker,Electronics,175826.26,GadgetHub
+1119,Beans (50kg),Groceries,59505.98,AgroSupplies
+1120,Black Soap,Beauty,7300.91,NaijaCare Cosmetics
+1121,Air Freshener,Household,4980.33,CleanPro Nigeria
+1122,Ankara Fabric,Clothing,7036.89,AnkaraWorld
+1123,Television,Electronics,40996.33,ElectroMart
+1124,Bread,Groceries,11685.3,AgroSupplies
+1125,Black Soap,Beauty,2117.04,NaijaCare Cosmetics
+1126,Air Freshener,Household,1748.99,NaijaFresh
+1127,Jeans Trousers,Clothing,7612.5,AnkaraWorld
+1128,Generator,Electronics,200286.68,ElectroMart
+1129,Palm Oil (5L),Groceries,59922.94,AgroSupplies
+1130,Body Lotion,Beauty,1860.61,NaijaCare Cosmetics
+1131,Dishwasher Soap,Household,3254.43,CleanPro Nigeria
+1132,T-shirt,Clothing,11454.42,NaijaWear Ltd
+1133,Bluetooth Speaker,Electronics,21996.95,GadgetHub
+1134,Palm Oil (5L),Groceries,35643.68,AgroSupplies
+1135,Hair Relaxer,Beauty,7261.44,OlaBeauty
+1136,Air Freshener,Household,2380.42,CleanPro Nigeria
+1137,T-shirt,Clothing,4757.21,NaijaWear Ltd
+1138,Television,Electronics,102552.63,TechNaija
+1139,Palm Oil (5L),Groceries,3366.38,AgroSupplies
+1140,Body Lotion,Beauty,1468.64,OlaBeauty
+1141,Detergent,Household,2682.79,NaijaFresh
+1142,Jeans Trousers,Clothing,10777.33,AnkaraWorld
+1143,Generator,Electronics,214362.48,ElectroMart
+1144,Yam Tubers,Groceries,50422.77,AgroSupplies
+1145,Black Soap,Beauty,5971.1,OlaBeauty
+1146,Insecticide,Household,3277.77,BrightHome Ltd
+1147,Cap,Clothing,19939.07,AnkaraWorld
+1148,Smartphone,Electronics,166608.49,ElectroMart
+1149,Yam Tubers,Groceries,17103.23,AgroSupplies
+1150,Hair Relaxer,Beauty,6258.3,NaijaCare Cosmetics
+1151,Air Freshener,Household,4844.62,CleanPro Nigeria
+1152,Cap,Clothing,10337.52,UrbanStyle
+1153,Bluetooth Speaker,Electronics,229214.18,TechNaija
+1154,Palm Oil (5L),Groceries,31479.18,Foodies Ltd
+1155,Black Soap,Beauty,3439.77,GlowLine Ltd
+1156,Insecticide,Household,2023.43,BrightHome Ltd
+1157,Cap,Clothing,18509.85,AnkaraWorld
+1158,Laptop,Electronics,213700.48,ElectroMart
+1159,Palm Oil (5L),Groceries,51696.04,AgroSupplies
+1160,Perfume Oil,Beauty,1294.4,GlowLine Ltd
+1161,Insecticide,Household,4135.26,BrightHome Ltd
+1162,Jeans Trousers,Clothing,8493.93,AnkaraWorld
+1163,Bluetooth Speaker,Electronics,40542.33,TechNaija
+1164,Bread,Groceries,5728.8,NaijaMart
+1165,Shea Butter Cream,Beauty,6809.01,OlaBeauty
+1166,Toilet Roll,Household,1112.16,CleanPro Nigeria
+1167,T-shirt,Clothing,5651.74,AnkaraWorld
+1168,Television,Electronics,64647.91,GadgetHub
+1169,Yam Tubers,Groceries,57576.79,AgroSupplies
+1170,Shea Butter Cream,Beauty,1043.24,NaijaCare Cosmetics
+1171,Insecticide,Household,4412.14,NaijaFresh
+1172,Ankara Fabric,Clothing,14986.57,UrbanStyle
+1173,Television,Electronics,46955.62,GadgetHub
+1174,Beans (50kg),Groceries,29204.89,AgroSupplies
+1175,Hair Relaxer,Beauty,7816.56,NaijaCare Cosmetics
+1176,Air Freshener,Household,3858.36,BrightHome Ltd
+1177,T-shirt,Clothing,14839.89,UrbanStyle
+1178,Television,Electronics,245788.53,TechNaija
+1179,Beans (50kg),Groceries,16114.15,NaijaMart
+1180,Black Soap,Beauty,3794.07,OlaBeauty
+1181,Air Freshener,Household,510.96,NaijaFresh
+1182,Leather Shoes,Clothing,3466.12,NaijaWear Ltd
+1183,Laptop,Electronics,204428.82,ElectroMart
+1184,Beans (50kg),Groceries,6233.95,NaijaMart
+1185,Shea Butter Cream,Beauty,6537.37,NaijaCare Cosmetics
+1186,Insecticide,Household,3130.1,NaijaFresh
+1187,T-shirt,Clothing,12239.45,NaijaWear Ltd
+1188,Bluetooth Speaker,Electronics,130718.16,GadgetHub
+1189,Bread,Groceries,50830.35,AgroSupplies
+1190,Perfume Oil,Beauty,1716.46,GlowLine Ltd
+1191,Insecticide,Household,2160.94,BrightHome Ltd
+1192,Leather Shoes,Clothing,15578.98,AnkaraWorld
+1193,Television,Electronics,148238.89,ElectroMart
+1194,Beans (50kg),Groceries,13773.85,Foodies Ltd
+1195,Black Soap,Beauty,4515.44,GlowLine Ltd
+1196,Insecticide,Household,4106.93,NaijaFresh
+1197,Leather Shoes,Clothing,5188.4,UrbanStyle
+1198,Bluetooth Speaker,Electronics,84621.88,TechNaija
+1199,Yam Tubers,Groceries,55603.99,Foodies Ltd
+1200,Perfume Oil,Beauty,1753.99,NaijaCare Cosmetics
+1201,Insecticide,Household,1448.03,BrightHome Ltd
+1202,Ankara Fabric,Clothing,8519.44,UrbanStyle
+1203,Laptop,Electronics,36058.46,ElectroMart
+1204,Rice (50kg),Groceries,18545.62,Foodies Ltd
+1205,Perfume Oil,Beauty,4032.71,GlowLine Ltd
+1206,Detergent,Household,4927.59,NaijaFresh
+1207,Cap,Clothing,8608.11,NaijaWear Ltd
+1208,Smartphone,Electronics,173215.12,ElectroMart
+1209,Rice (50kg),Groceries,30908.11,NaijaMart
+1210,Black Soap,Beauty,7728.29,OlaBeauty
+1211,Insecticide,Household,2151.54,NaijaFresh
+1212,Ankara Fabric,Clothing,4182.31,NaijaWear Ltd
+1213,Smartphone,Electronics,58193.14,ElectroMart
+1214,Bread,Groceries,3938.09,NaijaMart
+1215,Body Lotion,Beauty,6905.98,NaijaCare Cosmetics
+1216,Detergent,Household,4506.52,CleanPro Nigeria
+1217,T-shirt,Clothing,17538.37,AnkaraWorld
+1218,Laptop,Electronics,41376.19,ElectroMart
+1219,Palm Oil (5L),Groceries,52779.48,NaijaMart
+1220,Perfume Oil,Beauty,939.41,GlowLine Ltd
+1221,Insecticide,Household,2716.41,NaijaFresh
+1222,Ankara Fabric,Clothing,7621.64,AnkaraWorld
+1223,Television,Electronics,151829.78,TechNaija
+1224,Yam Tubers,Groceries,53165.77,Foodies Ltd
+1225,Perfume Oil,Beauty,6716.04,NaijaCare Cosmetics
+1226,Dishwasher Soap,Household,3699.88,CleanPro Nigeria
+1227,Jeans Trousers,Clothing,6032.67,NaijaWear Ltd
+1228,Smartphone,Electronics,73540.34,GadgetHub
+1229,Palm Oil (5L),Groceries,37335.75,NaijaMart
+1230,Hair Relaxer,Beauty,2698.85,GlowLine Ltd
+1231,Insecticide,Household,4016.87,BrightHome Ltd
+1232,Ankara Fabric,Clothing,8203.44,UrbanStyle
+1233,Bluetooth Speaker,Electronics,26267.91,GadgetHub
+1234,Yam Tubers,Groceries,48782.74,AgroSupplies
+1235,Perfume Oil,Beauty,4936.32,NaijaCare Cosmetics
+1236,Dishwasher Soap,Household,983.5,BrightHome Ltd
+1237,Ankara Fabric,Clothing,4504.84,AnkaraWorld
+1238,Bluetooth Speaker,Electronics,84209.01,ElectroMart
+1239,Rice (50kg),Groceries,32678.85,AgroSupplies
+1240,Shea Butter Cream,Beauty,5276.13,OlaBeauty
+1241,Insecticide,Household,1291.36,BrightHome Ltd
+1242,Ankara Fabric,Clothing,13195.26,AnkaraWorld
+1243,Television,Electronics,50437.52,GadgetHub
+1244,Bread,Groceries,37211.13,Foodies Ltd
+1245,Hair Relaxer,Beauty,4223.06,GlowLine Ltd
+1246,Air Freshener,Household,2352.3,BrightHome Ltd
+1247,Cap,Clothing,12504.13,UrbanStyle
+1248,Bluetooth Speaker,Electronics,110254.5,ElectroMart
+1249,Bread,Groceries,31249.12,AgroSupplies
+1250,Perfume Oil,Beauty,6362.54,GlowLine Ltd
+1251,Dishwasher Soap,Household,4015.19,NaijaFresh
+1252,T-shirt,Clothing,18268.98,UrbanStyle
+1253,Bluetooth Speaker,Electronics,128055.98,GadgetHub
+1254,Bread,Groceries,59770.7,NaijaMart
+1255,Black Soap,Beauty,2622.39,GlowLine Ltd
+1256,Insecticide,Household,3012.22,CleanPro Nigeria
+1257,Ankara Fabric,Clothing,17023.27,UrbanStyle
+1258,Smartphone,Electronics,108838.5,TechNaija
+1259,Beans (50kg),Groceries,34694.03,NaijaMart
+1260,Hair Relaxer,Beauty,3526.78,GlowLine Ltd
+1261,Air Freshener,Household,1995.52,BrightHome Ltd
+1262,Leather Shoes,Clothing,9230.67,UrbanStyle
+1263,Smartphone,Electronics,102179.31,GadgetHub
+1264,Beans (50kg),Groceries,42060.32,AgroSupplies
+1265,Hair Relaxer,Beauty,6719.13,OlaBeauty
+1266,Insecticide,Household,2916.89,NaijaFresh
+1267,T-shirt,Clothing,19130.22,UrbanStyle
+1268,Smartphone,Electronics,81679.31,ElectroMart
+1269,Beans (50kg),Groceries,48695.59,AgroSupplies
+1270,Hair Relaxer,Beauty,4873.85,NaijaCare Cosmetics
+1271,Dishwasher Soap,Household,587.46,NaijaFresh
+1272,Ankara Fabric,Clothing,17989.03,UrbanStyle
+1273,Television,Electronics,134690.58,TechNaija
+1274,Palm Oil (5L),Groceries,32394.46,Foodies Ltd
+1275,Perfume Oil,Beauty,5296.41,NaijaCare Cosmetics
+1276,Toilet Roll,Household,2275.08,CleanPro Nigeria
+1277,Cap,Clothing,11584.15,NaijaWear Ltd
+1278,Smartphone,Electronics,191051.37,ElectroMart
+1279,Beans (50kg),Groceries,19256.79,NaijaMart
+1280,Body Lotion,Beauty,1476.2,NaijaCare Cosmetics
+1281,Detergent,Household,2881.46,BrightHome Ltd
+1282,Leather Shoes,Clothing,10135.72,UrbanStyle
+1283,Smartphone,Electronics,145932.71,TechNaija
+1284,Beans (50kg),Groceries,29628.31,Foodies Ltd
+1285,Shea Butter Cream,Beauty,1269.99,NaijaCare Cosmetics
+1286,Air Freshener,Household,3131.62,NaijaFresh
+1287,Leather Shoes,Clothing,16648.73,AnkaraWorld
+1288,Smartphone,Electronics,83649.89,GadgetHub
+1289,Rice (50kg),Groceries,56315.14,NaijaMart
+1290,Body Lotion,Beauty,5245.35,GlowLine Ltd
+1291,Toilet Roll,Household,2496.85,NaijaFresh
+1292,Leather Shoes,Clothing,18707.88,NaijaWear Ltd
+1293,Bluetooth Speaker,Electronics,142862.28,TechNaija
+1294,Yam Tubers,Groceries,49420.88,Foodies Ltd
+1295,Perfume Oil,Beauty,4491.7,OlaBeauty
+1296,Detergent,Household,3778.15,NaijaFresh
+1297,T-shirt,Clothing,13594.87,AnkaraWorld
+1298,Bluetooth Speaker,Electronics,110064.54,ElectroMart
+1299,Yam Tubers,Groceries,53396.96,Foodies Ltd

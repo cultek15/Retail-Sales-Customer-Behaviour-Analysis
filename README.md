@@ -17,6 +17,7 @@ Assess regional revenue distribution and growth opportunities.
 
 Provide strategic recommendations for business growth.
 
+
 🗂️ Project Structure
 data/               → Datasets (CSV files)  
 sql/                → SQL scripts for analysis  
@@ -24,6 +25,7 @@ presentation/       → Final presentation (PDF + PPTX)
 report/             → Full insights report  
 dashboard/          → Power BI dashboard file (optional)  
 images/             → Dashboard screenshots for README  
+
 
 🛠️ Tools & Technologies
 
@@ -34,6 +36,7 @@ Power BI → Dashboard visualization & storytelling
 Git & GitHub → Version control & portfolio sharing
 
 Python → Data preparation & file generation
+
 
 📊 Dashboard Pages & Insights
 1️⃣ Executive KPI Dashboard
@@ -94,6 +97,7 @@ Region-wise Orders & Revenue Table
 
 Regional Revenue Trend
 
+
 📑 Methodology
 
 Data Source
@@ -114,6 +118,7 @@ Exported query results into CSVs.
 
 Built Power BI dashboards to deliver insights.
 
+
 ✅ Key Findings
 
 Electronics generate 70%+ of revenue.
@@ -125,6 +130,7 @@ Repeat customers (98%) highlight strong loyalty.
 Seasonal peaks in April & October.
 
 Customers aged 25–44 are the most valuable segment.
+
 
 🚀 Recommendations
 
@@ -138,20 +144,26 @@ Introduce structured loyalty programs.
 
 Target campaigns to the 25–44 demographic.
 
+
 📷 Sample Dashboards
-Executive KPI Dashboard
+![Executive KPI Dashboard](images/01_exec_dashboard.png)  
 
-Customer Insights
+### Customer Insights  
+![Customer Insights](images/02_customer_dashboard.png)  
 
-Product Insights
+### Product Insights  
+![Product Insights](images/03_product_dashboard.png) 
 
-Regional & Demographics
+### Regional & Demographics  
+![Regional Dashboard](images/04_region_dashboard.png)  
+
 
 📌 How to Reproduce This Project
 
 Clone the repository:
 
 git clone https://github.com/cultek15/Retail-Sales-Customer-Behaviour-Analysis.git
+
 cd corex-global-retail-analysis
 
 
@@ -163,9 +175,13 @@ Load the processed CSVs into Power BI.
 
 Open the dashboards and explore insights.
 
+
 ✍️ Author
 
 Culbert T Orhorhoro
+
 📧 Email: cultek1@outlook.com
+
 🔗 GitHub: github.com/cultek15
+
 💼 LinkedIn: linkedin.com/in/culbert-o-555181285
